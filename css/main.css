@@ -37,3 +37,29 @@ nav a, nav a:visited {
 nav a.selected, nav a:hover {
   color:#32673f;
 }
+
+nav ul{
+   list-style: none;
+}
+nav {
+  background-color: black;
+}
+
+nav li{
+   display: inline;
+   margin-right: 15px;
+   float: right;
+   font-size: 18px;
+   padding: 10px;
+   
+}
+
+.group {
+    content: " ";
+  clear: both;
+  display: table;
+}
+
+header {
+   width: 100%;
+}
